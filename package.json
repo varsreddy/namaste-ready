@@ -1,0 +1,27 @@
+{
+  "name": "reactjs-namasthe",
+  "version": "1.0.0",
+  "description": "this is namaste reactjs -- expecting to got more info about reactjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varsreddy/namaste-ready.git"
+  },
+  "author": "varshhhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varsreddy/namaste-ready/issues"
+  },
+  "homepage": "https://github.com/varsreddy/namaste-ready#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
